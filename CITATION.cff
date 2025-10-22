@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this work if you use it."
+title: "Role-Based Psychological Systems (RPS): Psychology of Inner Worlds"
+authors:
+  - family-names: Pererodin
+    given-names: Stanislav
+version: "0.1.0"
+date-released: "2025-10-22"
+repository-code: "https://github.com/pererodin/RPS-Theory"
+license: "MIT AND CC-BY-NC-4.0"
+---
+Пожалуйста, цитируйте эту работу при использовании.

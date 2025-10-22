@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+ENV/
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Data files
+research/data/*.csv
+research/data/*.xlsx
+!research/data/README.md
+
+# Temporary files
+*.tmp
+*.bak
+*.log
