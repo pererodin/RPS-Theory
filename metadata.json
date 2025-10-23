@@ -1,0 +1,31 @@
+{
+  "title": "Role-Based Psychological Systems (RPS): A neurocognitive framework for personality organization",
+  "description": "Comprehensive documentation of the RPS theory integrating role-based self-systems, neural network dynamics (DMN, SN, ECN), and clinical applications.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Stanislav Pererodin",
+      "orcid": "https://orcid.org/0009-0005-7076-8423",
+      "affiliation": "Independent Researcher, Clinical Psychologist"
+    }
+  ],
+  "keywords": [
+    "RPS",
+    "Psychology",
+    "Neuroscience",
+    "Self-system",
+    "Identity",
+    "DMN",
+    "Role-based cognition"
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "language": "en",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Pererodin/RPS-Theory"
+    }
+  ]
+}
