@@ -4,7 +4,14 @@
 **Version:** 1.0  
 **Date:** October 2025
 
+
 ---
+
+# RPS Theory
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
 ## 📖 About the Theory
 
